@@ -12,7 +12,16 @@
     - Como imprimir valores usando o `cout`
     - Como pular linhas na saída usando o `endl`
 
-- Verificando as tentativas
+- Verificando as tentativas ✅
+  - Novos tipos em C++ ✅
+  - Definindo condições ✅
+  - Fazendo vários chutes ✅
+  - Usando constantes ✅
+  - O que aprendemos? ✅
+    - Como ler valores usando o `cin`
+    - Como declarar e usar variáveis do tipo `bool`
+    - Como utilizar o identificador `const` na declaração de variáveis
+
 - Adicionando pontuação ao jogo
 - Finalizando o jogo da adivinhação
 - Iniciando o jogo da forca
