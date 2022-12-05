@@ -1,7 +1,5 @@
 #include <iostream>
 
-int getChute(int chute);
-
 int getChute(int tentativas, int chute);
 
 using namespace std;
@@ -15,6 +13,7 @@ int main() {
 
   bool nao_acertou = true;
   int tentativas = 0;
+  double pontos = 1000;
 
   while (nao_acertou) {
     int chute = 0;
@@ -23,6 +22,8 @@ int main() {
 
     bool acertou = chute == NUMERO_SECRETO;
     bool chute_maior = chute > NUMERO_SECRETO;
+    double pontos_perdidos = abs(chute - NUMERO_SECRETO) / 2.0;
+    pontos = pontos - pontos_perdidos;
 
     if (acertou) {
       cout << endl << "Parabéns você acertou o número secreto!" << endl;
@@ -37,6 +38,9 @@ int main() {
 
   cout << endl << "--------------------- Fim do jogo ---------------------" << endl;
   cout << "Parabéns você acertou o número secreto em " << tentativas << " tentativas!" << endl;
+  cout.precision(2);
+  cout << fixed;
+  cout << "Sua pontuação foi de " << pontos << " pontos.";
 }
 
 int getChute(int tentativas, int chute) {

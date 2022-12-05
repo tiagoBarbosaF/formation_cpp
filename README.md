@@ -22,7 +22,15 @@
     - Como declarar e usar variáveis do tipo `bool`
     - Como utilizar o identificador `const` na declaração de variáveis
 
-- Adicionando pontuação ao jogo
+- Adicionando pontuação ao jogo ✅
+  - Adicionando um sistema de pontuação ✅
+  - Trabalhando com casas decimais ✅
+  - Imprimindo doubles ✅
+  - Contas com doubles ✅
+  - O que aprendemos? ✅
+    - Como utilizar variáveis do tipo double
+    - Como formatar a saída para imprimir números com precisão definida
+
 - Finalizando o jogo da adivinhação
 - Iniciando o jogo da forca
 - Criando a condição de final de jogo
