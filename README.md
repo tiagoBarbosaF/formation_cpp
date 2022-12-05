@@ -31,7 +31,16 @@
     - Como utilizar variáveis do tipo double
     - Como formatar a saída para imprimir números com precisão definida
 
-- Finalizando o jogo da adivinhação
+- Finalizando o jogo da adivinhação ✅
+  - Adicionando níveis de dificuldade ✅
+  - Escolhendo uma dificuldade inválida ✅
+  - Sorteando o número secreto ✅
+  - Como sortear valores ✅
+  - O que aprendemos? ✅
+    - Como usar a função `srand()` para determinar a semente dos valores aleatórios
+    - Como usar a função `rand()` para gerar valores aleatórios
+    - Como usar a função módulo, ou resto de divisão, denotada por `%` para conseguir valores aleatórios menores
+
 - Iniciando o jogo da forca
 - Criando a condição de final de jogo
 - Finalizando o jogo da forca
