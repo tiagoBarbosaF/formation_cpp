@@ -41,6 +41,16 @@
     - Como usar a função `rand()` para gerar valores aleatórios
     - Como usar a função módulo, ou resto de divisão, denotada por `%` para conseguir valores aleatórios menores
 
-- Iniciando o jogo da forca
+- Iniciando o jogo da forca ✅
+  - Usando Strings ✅
+  - Lendo chutes ✅
+  - Verificando chutes ✅
+  - Laço de C++11 ✅
+  - Função letra_existe ✅
+  - O que aprendemos? ✅
+    - Como usar variáveis do tipo String
+    - Como usar laços de repetição do C++11
+    - Como escrever um Makefile para compilar arquivos de C++ mais facilmente
+
 - Criando a condição de final de jogo
 - Finalizando o jogo da forca

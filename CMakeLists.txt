@@ -3,4 +3,4 @@ project(formation_cpp)
 
 set(CMAKE_CXX_STANDARD 23)
 
-add_executable(formation_cpp jogo-adivinhacao.cpp)
+add_executable(formation_cpp jogo-adivinhacao.cpp forca.cpp)
