@@ -52,5 +52,16 @@
     - Como usar laços de repetição do C++11
     - Como escrever um Makefile para compilar arquivos de C++ mais facilmente
 
-- Criando a condição de final de jogo
+- Criando a condição de final de jogo ✅
+  - Escrevendo a palavra secreta ✅
+  - Mostrando chutes errados ✅
+  - Usando vectors ✅
+  - Condições de final de jogo ✅
+  - Refatorando o código ✅
+  - Escrevendo a função nao_acertou ✅
+  - O que aprendemos? ✅
+    - Como inserimos valores em uma variável do tipo `vector`
+    - Como imprimir os valores de um `vector` usando o `for` em intervalos
+    - Como descobrir o tamanho de um `vector`, usando o método `size()`
+
 - Finalizando o jogo da forca
