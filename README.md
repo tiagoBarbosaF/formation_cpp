@@ -65,3 +65,10 @@
     - Como descobrir o tamanho de um `vector`, usando o método `size()`
 
 - Finalizando o jogo da forca
+  - Lendo um arquivo de texto
+  - Sorteando a palavra secreta
+  - Escrevendo a função sorteia_palavra
+  - Problemas com arquivos
+  - Testando o código
+  - Adicionando palavras ao banco
+  - O que aprendemos?
