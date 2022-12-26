@@ -64,11 +64,15 @@
     - Como imprimir os valores de um `vector` usando o `for` em intervalos
     - Como descobrir o tamanho de um `vector`, usando o método `size()`
 
-- Finalizando o jogo da forca
-  - Lendo um arquivo de texto
-  - Sorteando a palavra secreta
-  - Escrevendo a função sorteia_palavra
-  - Problemas com arquivos
-  - Testando o código
-  - Adicionando palavras ao banco
-  - O que aprendemos?
+- Finalizando o jogo da forca ✅
+  - Lendo um arquivo de texto ✅
+  - Sorteando a palavra secreta ✅
+  - Escrevendo a função sorteia_palavra ✅
+  - Problemas com arquivos ✅
+  - Testando o código ✅
+  - Adicionando palavras ao banco ✅
+  - O que aprendemos? ✅
+    - Como ler e imprimir valores em arquivos usando os tipos `ifstream` e `ofstream`
+    - Como checar se um arquivo pode ser acessado usando o método `is_open()`
+    - Como usar o método `close()` para indicar a finalização de uso de um arquivo previamente aberto
+    - Como interromper a execução de um programa usando `exit(0)`
